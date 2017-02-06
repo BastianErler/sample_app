@@ -1,0 +1,3 @@
+https://www.railstutorial.org/book/filling_in_the_layout
+
+https://damp-reaches-33070.herokuapp.com/
